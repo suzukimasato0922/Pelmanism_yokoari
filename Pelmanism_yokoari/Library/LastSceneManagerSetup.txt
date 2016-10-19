@@ -1,4 +1,1 @@
-sceneSetups:
-- path: Assets/Origin/Time.unity
-  isLoaded: 1
-  isActive: 1
+sceneSetups: []
