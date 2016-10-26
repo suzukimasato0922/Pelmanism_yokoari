@@ -1,8 +1,1 @@
-<<<<<<< HEAD
 sceneSetups: []
-=======
-sceneSetups:
-- path: Assets/tateyama/title.unity
-  isLoaded: 1
-  isActive: 1
->>>>>>> origin/たてやま
